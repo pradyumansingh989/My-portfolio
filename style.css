@@ -65,3 +65,11 @@ html{
     font-weight: 500;
     margin-right: 25px;
 }
+
+
+/* home section */
+
+.home{
+    display: flex;
+    
+}
