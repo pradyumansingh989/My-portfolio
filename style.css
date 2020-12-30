@@ -182,7 +182,7 @@ html{
 section{
     padding: 100px 0;
 }
-.about, .work, .skills, .teams, .contact footer{
+.about, .work, .skills, .teams{
     font-family: 'Poppins', sans-serif;
 }
 
@@ -529,6 +529,10 @@ section .title::after{
     color: crimson;
     background: none;
 }
+#contact{
+    font-family: "poppins",sans-serif;
+}
+
 
 /* footer section styling */
 footer{
@@ -536,6 +540,7 @@ footer{
     padding: 15px 23px;
     color: #fff;
     text-align: center;
+    font-family: "poppins",sans-serif;
 }
 footer span a{
     color: crimson;
