@@ -40,7 +40,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Web Developer.", "Designer.", "Coder."],
+        strings: ["Web Dev.", "Designer.", "Coder."],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
